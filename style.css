@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now{
+    background-color: black;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+button{
+    color: white;
+}
+.rotate {
+    height: 140px;
+    white-space: nowrap;
+    width: 0;
+    
+	
+    
+      transform: 
+        translate(0px, 110px)
+        rotate(-90deg);
+   }
+   span {
+      
+      padding: 5px 10px;
+      margin:250px;
+     font-size: 46px;
+     font-weight: 700;
+     color: rgb(250, 244, 244);
+    }
+ 
+  .rotate{
+	
+    flex: 1 1 0;
+        
+}
+  .col-md-5{
+      margin-bottom: 120px;
+  }
+  
+  
